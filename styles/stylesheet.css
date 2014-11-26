@@ -1,0 +1,66 @@
+a         {text-decoration: none;
+           display: inline-block;
+           color: black;
+}
+header       {line-height: 50px;
+background-color:#b4e84b;}
+
+header p {
+
+}
+h2 {margin-top: 0px;
+    background-color:#dedc4c;
+    padding: 20px 90px;
+    color: white;
+    font-family: sans-serif;
+    
+}
+/*where do i float this content?*/
+
+                 
+
+.topnav ul {height: 35px;
+            padding: 0;
+            margin: 0;
+            background-color: white;
+            
+}
+.topnav li {padding: 3px 30px;
+            text-align: center;
+            display: inline-block;
+            font-size: 20px;
+            
+}
+
+article   { margin-left: 210px;
+            margin-top: 0px;
+           padding: px;
+}
+article p {padding: 10px 50px
+}
+
+.sidenav  {width: 200px;
+           height: 200px;
+           float: left;
+           font-size: 1 em;
+           text-align:center;
+           padding: 2.5rem 0rem;
+            background-color:#00e6dd; 
+}
+.sidenav li {list-style: none;
+             background-color:#00e6dd;
+             text-align: left;
+             padding: 8px 40px;
+             
+}
+.sidenav li a {color: white;}
+  
+
+div { background-color:#00e6dd;
+        width: 200px;
+        height: 10rem;
+    display: inline-block;
+    float:left
+}
+
+}
