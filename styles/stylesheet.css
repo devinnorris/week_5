@@ -75,7 +75,7 @@ article p {padding: 10px 50px;
 
 .square { position: relative;
     top: -100px;
-    background-color:#00e6dd;
+    background-color:rgb(73,176,215);
         width: 200px;
         height: 10rem;
         float: clear;
@@ -87,17 +87,27 @@ footer { background-color: rgb(173,174,175);
          width: 718px;
         position: relative;
         top: 25px;
-        height: 35px;
-        
+        height: 35px;     
 }
 
-i { float: right;
-    margin: 8px;
-    background-color:
+
+
+span {float: right;
+    margin-left: 10px;
+}
+
+.boxin {margin-left: 20px 
     
-/*    color: rgb(173,174,175);*/  
+/*
+ { float: right;
+    margin: 8px;
+    background-color:black;
+    height: 25px;
+    width: 25px;
+    color: rgb(173,174,175); 
+    
+*/
 }
-div  {height: 10px;
-    width: 10px;
+
        
-}
+
