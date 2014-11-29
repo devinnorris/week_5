@@ -8,13 +8,14 @@ background-color:#b4e84b;
 
 header p {margin-left: 10px;
           position: relative;
-          top: -20px;
+          top: -25px;
+          font-size: 20px;
 
 }
 
 h1 { margin-left: 10px;
-     font-family: droid-serif;
-    font-size: 50px;
+     font-family: droid serif, sans-serif;
+    font-size: 40px;
     position: relative;
     bottom: -20px;
         
